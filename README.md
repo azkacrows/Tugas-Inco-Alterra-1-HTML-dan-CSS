@@ -47,6 +47,3 @@ Folder `img` di dalam folder `assets` digunakan untuk menyimpan semua gambar yan
    Buka file `index.html` menggunakan browser pilihan Anda untuk melihat tampilan halaman web.
 
 **Date**: Jul 1, 2022
-
-**Original Repository**:\
-https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Alterra
